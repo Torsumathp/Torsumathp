@@ -1,4 +1,4 @@
-Hi 馃憢 My name is Torsumathp
+Hi My name is Torsumathp
 ===========================
 
 Student
@@ -6,7 +6,7 @@ Student
 
 Just a student who can code until your computer explodes.
 
-* 馃實聽 I'm based in Bangkok, Thailand
+I'm based in Bangkok, Thailand
 
 ### Skills
 
