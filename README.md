@@ -6,8 +6,7 @@ Student
 
 Just a student who can code until your computer explodes.
 
-I'm based in Bangkok, Thailand
-
+* 🌍  I'm based in Bangkok, Thailand
 ### Skills
 
 
