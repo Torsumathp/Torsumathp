@@ -4,7 +4,7 @@ Hi 😉My name is Torsumathp
 Student
 -------
 
-Just a student who can code until your computer explodes.
+I'm just a student who can coding.
 
 * 🌍  I'm based in Bangkok, Thailand
 ### Skills
